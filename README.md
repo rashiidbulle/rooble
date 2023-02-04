@@ -1,4 +1,4 @@
-#  QR Code Scanner App
+#  Unit Converter App
 Name: Abdirashid Roble Rage
 
 Class CA195
